@@ -1,0 +1,13 @@
+#output
+{
+    background: wheat;
+    border-radius: 10px;
+    border-top: 10px solid #25f58d;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+body
+{
+    background: violet;
+}
